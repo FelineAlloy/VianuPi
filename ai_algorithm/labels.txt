@@ -1,0 +1,7 @@
+0 Cirrus
+1 Cumulus
+2 Contrails
+3 Orographic
+4 Stratus
+5 Mammatus
+6 Lenticular
